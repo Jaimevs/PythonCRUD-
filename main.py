@@ -5,7 +5,7 @@ from routes.loans import loan
 
 app = FastAPI(
     title="PRESTAMOS S.A. de C.V.",
-    description="API de prueba para almacenar registros de préstamo de material educativo"
+    description="API de prueba para almacenar registros de préstamo de material Helllo educativo"
 )
 
 app.include_router(user)
